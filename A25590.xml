@@ -1,0 +1,662 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Answer to the dragon and grashopper in a dialogue between an old monkey and a young weazel at the Three Cranes Tavern in the Poultry, where they are daily to be seen : as also some remarks upon the Amsterdam and London Æsop's.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25590</idno>
+            <idno type="STC">Wing A3406</idno>
+            <idno type="STC">ESTC R828</idno>
+            <idno type="EEBO-CITATION">11946400</idno>
+            <idno type="OCLC">ocm 11946400</idno>
+            <idno type="VID">51322</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25590)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51322)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 48:36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Answer to the dragon and grashopper in a dialogue between an old monkey and a young weazel at the Three Cranes Tavern in the Poultry, where they are daily to be seen : as also some remarks upon the Amsterdam and London Æsop's.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Political satire, English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:51322:1"/>
+            <pb facs="tcp:51322:1" rendition="simple:additions"/>
+            <p>AN ANSWER TO THE Dragon and Graſhopper, In a <hi>Dialogue</hi> between an Old Monkey AND A Young Weazel At the <hi>Three Cranes Tavern</hi> in the <hi>Poultry,</hi> where they are daily to be ſeen.</p>
+            <p>AS ALSO Some Remarks upon the <hi>Amſterdam</hi> and <hi>London</hi> AESOP's.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1698.</p>
+         </div>
+      </front>
+      <body>
+         <div type="answer">
+            <pb n="2" facs="tcp:51322:2"/>
+            <head>ANSWER TO THE <hi>Dragon</hi> and <hi>Graſhopper,</hi> &amp;c.</head>
+            <p>THE repeated Rumours of ſo many <hi>Aeſop</hi>'s <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Amrſtrdam, Tunbridge, Bath, White-Hall, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> ſpeaking thro' the feigned Mouths of <hi>Aſſes Wo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Foxes, Dogs, Owls,</hi> &amp;c. And laſt of all dead <hi>D<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ons</hi> and <hi>Graſhoppers,</hi> hath ſo animated an Old <hi>Monkey</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a Young <hi>Weazel,</hi> at the <hi>Three-Crain-Tavern</hi> in the <hi>P<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>try,</hi> that they are reſolved to ſpeak as well as the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and thereupon laſt <hi>Saturday</hi> began a ſerious Confere<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> which is not yet ended, where any Perſon who has <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> curioſity, may there be further ſatisfied by occular <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>monſtration. However, what has hitherto paſſed <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tween them, I have here inſerted, which for diver<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſake, I hope will be accepted.</p>
+            <sp>
+               <speaker>MONKEY.</speaker>
+               <p>How now little Animal; why ſo bold to enter <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Cabbin without asking my leave?</p>
+            </sp>
+            <sp>
+               <speaker>WEAZEL.</speaker>
+               <p>Moſt Reverend Sir, I have been lately ſurprized in a <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> therefore pray pardon my Silence, for oftentimes Traps are <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> for Words, us well us <hi>Wolves</hi> and <hi>Weazles.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>MONKEY.</speaker>
+               <p>'Tis very true; But that's not the Anſwer to my Que<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>on: I ask you once more, why you came here, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> what cauſe? for it is not ordinary for a <hi>Weazel</hi> an<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <hi>Monkey</hi> to be Aſſociates, eſpecially in a Tavern.</p>
+            </sp>
+            <sp>
+               <pb n="3" facs="tcp:51322:2"/>
+               <speaker>WEAZEL.</speaker>
+               <p>Sir, with ſubmiſſion to your grave Worſhip, I am <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> up an Extranordinary Meſſage, no leſs than in the Quality of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>baſſador from that High and Mighty Strte-Animal <hi>Menheer <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>aſhopper,</hi> on the <hi>Royal Exchange</hi> in <hi>Cornhill.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>MONKEY.</speaker>
+               <p>Oh, high Preferment indeed! But Couſin, you mi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e the Perſon and Place too, your buſineſs, I ſuppoſe, with the <hi>Dragon</hi> on <hi>Bow-Steeple,</hi> for you Maſter and he <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e had a great Controverſie of late; but I fear thou art <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> humble a Creature to approach his Prefence, he's <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ud and lofty.</p>
+            </sp>
+            <sp>
+               <speaker>WAEZEL.</speaker>
+               <p>I know his Diſpoſition well enough; however my buſineſs preſent is not with him, but to acquaint thee that there is a <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>aty of Peace on Foot between them, therefore I leave thee approach his preſence; for my part, I have not the are on ſo much as to think of it.</p>
+            </sp>
+            <sp>
+               <speaker>MONKEY</speaker>
+               <p>Hey, hey, what is it come to that, to make choice a <hi>Monkey</hi> for Mediator? Sure the <hi>Bear that beat the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>um,</hi> might have been thought more worthy of that <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nour, for he ſpeaks their Language better than I can.</p>
+            </sp>
+            <sp>
+               <speaker>WEAZEL.</speaker>
+               <p>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> is true, Monſieue <hi>Dragon</hi> gave that Creaturea favour<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e Character at their laſt Conference, but <hi>Menheer Graſhop<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>
+                  </hi> rejected him as a Counterfeiter, and not as a true Imitator of <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ir Speech and Actions, and made choice of thee, a wiſe, ſo <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Creature, every way qualified for ſuch a mighty un-dertaking.</p>
+            </sp>
+            <sp>
+               <speaker>MONKEY.</speaker>
+               <p>So, ſo, Couſion, I find the Old Proverb true with a <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>neſs, <hi>viz,</hi> Like Maſter, like Man. I ſee thou haſt learn
+<pb n="4" facs="tcp:51322:3"/>their Art of Flattery to a Hairs-breadth; but no wond<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> when <hi>Graſhoppers</hi> are advanced, if <hi>VVeazels</hi> Chatter <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Authority. However, to be plain with thee, I don<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> care to meddle with two ſuch lofty Figures, for they a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> both Damnable brazen-ſac'd, and will ſtand to nothing long, let their Promiſes be never ſo fair, they being <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Nature unſteady and mutable; and indeed 'tis in vain <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> expect any other from two Weather-Cocks, who are ſu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ect to be turn'd by every ſhuft of Wind.</p>
+            </sp>
+            <sp>
+               <speaker>WEAZEL.</speaker>
+               <p>Moſt grave Sir, pray be not Angry with me, for <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> charging my Office; tho' they be mutuble, let us be fix'd; If t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> are lofty, we are lowly; If they are proud, let us be humble If they quarrel, let us agree; If they contend we'll conform; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> them hate, we'll love one another; If they he Hypocrites, we'll <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Honeſt; Therefore by my Conſent, let's (now we are thus luc<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>net) divers our ſelves only with ſome private (th' innoce<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> diſcourſe, laugh at their Folly, and leave them to themſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ver.</p>
+            </sp>
+            <sp>
+               <speaker>MONKEY.</speaker>
+               <p>With all my Heart; but before we proceed, tell <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> your Opinion, (for I know you are Cunning enoug<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> what People will ſay, if it ſhould be known that the <hi>M<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>key</hi> and <hi>VVeazel</hi> have been Diſcourſing together, beca<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 'twill not be believed that beaſt have the Gift of Speaking.</p>
+            </sp>
+            <sp>
+               <speaker>WEAZEL,</speaker>
+               <p>VVhy, if it comes to that, I'll ſpeak through the Lang<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> of <hi>Balaam</hi>'s Aſs, in the very Face of them: Nay and more <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that, if ſome ſhould be ſo Atheiſtically obſtinate, and account <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Fictious and too far fetch'd, I'll come nearer home, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> themſeveral Speaking Aſſes under their own Roofs; tho' per<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> far ſhort of <hi>Balaam's</hi> Aſs for underſtanding; for ſhe never <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> but when ſhe had occaſion, but thoſe do it when they have <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> therefore why not thee and I for our Diverſion?</p>
+            </sp>
+            <sp>
+               <speaker>MONKEY.</speaker>
+               <p>Hah, hah, ha! thou art a Creature of a very pleaſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <pb n="5" facs="tcp:51322:3"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nverſation; thou haſt now hit the Nail on the Head <gap reason="illegible" resp="#PDCC" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> ſince I have avoided that troubleſome Task of being <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>diator between thoſe who are never like to agree, let <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eave off this <hi>Aſs-like</hi> talk, and return again to them <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hat</hi> thinkeſt thou of this high advanced ſpungy Animal <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Inſect, the <hi>Graſhopper?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>WEAZEL.</speaker>
+               <p>You or I may think of him what we will; I am ſure the People <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> gone after him, and he now plainly tell you in what Gor<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the VVind ſtands.</p>
+            </sp>
+            <sp>
+               <speaker>MONKEY.</speaker>
+               <p>How? the People gone after him! I hope not ſo far, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t they may find the way back again, notwithſtanding <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>iſts, Fogs, and Bad VVeather, which have lately hap<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ned; and as for his Directing where the winds ſits, <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>-Steeple Dragon</hi> will perform that, if not better; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in my Opinion it goes much Truer, tho' not ſo well as <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſhould do.</p>
+            </sp>
+            <sp>
+               <speaker>WEAZEL.</speaker>
+               <p>No wonder if they Err in their true Courſe, when they conti<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ually Jar one againſt another; for tho' they are turn'd both with <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e Wind, yet one Wind doth not always turn them. I remember <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> other Day at their Diſpute, the <hi>Graſhopper</hi> boaſtingly told <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he <hi>Dragon</hi> to his Face, that ſhe and her Sons had Out-witted <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>im, by leaping over his Stumbling-blocks, meaning Oaths, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>acraments, <hi>&amp;c.</hi> or indeed any thing elſe that lies in their way <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o Greatneſs.</p>
+            </sp>
+            <sp>
+               <speaker>MONKEY.</speaker>
+               <p>Well, and 'tis not yet forgotten ſince they both took Hands, (but now farther aſſunder) and leap'd over a Dreadful Stumbling-block by one Conſent, though I be<g ref="char:EOLhyphen"/>lieve one of them (but I won't ſay which) Repents the Bargain. I ſuppoſe you underſtand my meaning.</p>
+            </sp>
+            <sp>
+               <pb n="6" facs="tcp:51322:4"/>
+               <speaker>WEAZEL.</speaker>
+               <p>Yaw, Menheer <hi>Monkey;</hi> but Divines tell us that late R<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>pentance is very Dangerous, eſpecially when the Sinner's caſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> deſperate and deplorable: But I have no skill in Divinity therefore leave your Worſhip to make the Application</p>
+            </sp>
+            <sp>
+               <speaker>MONKEY.</speaker>
+               <p>All that I ſhall ſay <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> it, is, that tho' late Repentance<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> not commendable, nor to be truſted too, yet it is bette<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> than never, tho' many times <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> proves a great O<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſtacle to it, aad ſometimes <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> it: But what is it <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> thee and I, let them look to that.</p>
+            </sp>
+            <sp>
+               <speaker>WEAZEL</speaker>
+               <p>Nay, for my part, it ſhan't troubl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, nor I <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> will <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſome of them much; However, out of <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, I <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> but pity their wilful Raſhneſs, (I was going <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o ſay Ignorance <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> but conſidering that ſome (nay<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> many) of <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſo plent<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>fully endowed with the Gifts of Natural as <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Qua<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>fications, they may juſtly be acquitted from all manner of Suſpiti<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of being guilty of the latter, tho' not altogether from the former<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </p>
+            </sp>
+            <sp>
+               <speaker>MONKEY.</speaker>
+               <p>Why, prethe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> no Body accuſeth them either of th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> one or the other, unleſs it be their own Conſcience, an<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> perhaps many of them are Piſtol-proof againſt that to<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> for having aſſumed the Nature of weather-Cocks, a Stor<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> can but turn them, and a Calm finds them as the laſt win<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> left 'em; therefore here's (ſeeming) Safety enough, o<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> would think, notwithſtanding the many <hi>Scare-Crow<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> which often hover over (nay, and ſometimes light upon <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> their Heads, to theirs as well as others Amazement.</p>
+            </sp>
+            <sp>
+               <speaker>WEAZEL.</speaker>
+               <p>Pray Mr. <hi>Monkey,</hi> let us leave theſe Weather-C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ck Storie<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and Diſcourſe a little of the Times: Pray what News is n<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> on foot?</p>
+            </sp>
+            <sp>
+               <speaker>MONKEY.</speaker>
+               <p>Truly none at all, as I heare of, for the Diſcourſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> turn'd into <hi>Fables</hi> and <hi>Fictions;</hi> all the Talk is, that O<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <pb n="7" facs="tcp:51322:4"/>
+                  <hi>Aeſop</hi> that <hi>Fablemonger,</hi> was lately ſeized at <hi>Tunbridge,</hi> his <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>dget rifled, and all his Papers expoſed; a-mong which <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ere found (as ſome ſay) both Truth and Treaſon, but ſo <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nningly Interwoven, as they could ſcarcely be diſcerned <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>om one another. However, the Old Blade was ſo Criti<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> upon his Examination, that he was judged Lunatick, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd ſo committed to <hi>Bedlam</hi> (not <hi>Newgate</hi>) ſince which, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ree more <hi>Aeſop</hi>'s have ſtarced up from <hi>Bath, VVhite-hall,</hi> and <hi>Amſterdam,</hi> who all ſpeak through the <hi>Aſs, Lyon, Dog, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>Volf; Fox, Graſhopper, Ant, Owl, Bat,</hi> &amp;c. forcing theſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>armleſs and ſenſeleſs Beaſts and Animals ſpeak thoſe Truths which themſelves dare not own. This is all the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ews which I hear.</p>
+            </sp>
+            <sp>
+               <speaker>WEAZEL.</speaker>
+               <p>But among all theſe Brutes, I hear neither of the <hi>Monkey</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Weazel</hi> ſo much as mentioned; therefore to put a ſtop to the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urther Riſe of any of theſe perilous bold Fellows, we'll ſpeak for <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r ſelves, otherwiſe they'l have a fling at us, by laying Magical <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>harms upon us, to ſpeak Treaſon when we think none, which <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ill bring us into Scandal, and down-right Contempt.</p>
+            </sp>
+            <sp>
+               <speaker>MONKEY.</speaker>
+               <p>Ay, but we'll keep out of their reach, for while they <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe their Slanderous Tongues, we'll uſe our Wits to a<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oid them. However by the by, I'll tell thee a Secret which <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne of theſe <hi>Aeſop</hi>'s diſcovered t'other Day to a Friend of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ine, that a —of the <hi>Graſhoppers</hi> Gang, was to have his <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eeth drawn very ſhortly, which if true, (which I don't <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uch doubt of) the poor ſtragling half ſtarv'd Sheep will <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ettle again, and feed upon their Old Common without <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ear; for tho' he may ſtill hunt them, he can't hurt them, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd indeed he may Bark, but not Bite 'em.</p>
+            </sp>
+            <sp>
+               <speaker>WEAZEL.</speaker>
+               <p>This is brave News indeed; but ſome <hi>Aeſop</hi>'s ſay that another <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ill come in his Room, who has Teeth as big as the former, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hich if ſo, he may bite too, if he pleaſes.</p>
+            </sp>
+            <sp>
+               <pb n="8" facs="tcp:51322:5"/>
+               <speaker>MONKEY.</speaker>
+               <p>Ay, but he's quite of another Nature, (as I am inform<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> being Mild, VViſe, Peaceable, Prudent and Charitab<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> beſides, he's a great Friend to the <hi>Dragon,</hi> therefore con<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>quently of different temper from any of the <hi>Graſhop<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> Society.</p>
+            </sp>
+            <sp>
+               <speaker>WEAZEL.</speaker>
+               <p>I am glad to hear of it with all my Heart, for it is not <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> unreaſonable, but quite oppoſit to the order of Nature for <hi>Graſhop<g ref="char:EOLhyphen"/>pers</hi> to inſult over <hi>Dragons.</hi> Well, Reverend Mr. <hi>Monk<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> ſince ſuch pleaſant and deſirable News as this has reach'd <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Ears, (if it ſeems agreeable to your Gravity) now we are <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Tavern, we'll ſhake off our Beaſtly Nature, and rejoyce ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Glaſs of Sack, like human Creatures; for we are Branche<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the Creation as well as they.</p>
+            </sp>
+            <sp>
+               <speaker>MONKEY.</speaker>
+               <p>Why, truly tho' I am not naturally given to Exceſs, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> I was never ſo preciſely Nice, as to deny any Inno<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Diverſion, eſpecially on ſuch a happy occaſion as thi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> But methinks, to compleat our Joy, a Loyal Drink<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Song, commonly call'd a <hi>Health,</hi> would be very ſeaſonab<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> but I'll leave you to that, for my Voice is very unplea<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </p>
+            </sp>
+            <sp>
+               <speaker>WEAZEL.</speaker>
+               <p>Indeed, Sir, I can't boaſt neither, of making any Harm<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Sound, yet rather than we'll loſe this favourable Opportu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> I'll do the beſt I can for a Concluſion.</p>
+               <lg>
+                  <l>Here's a Health to thoſe Boys</l>
+                  <l>That are Loyal t'th' King,</l>
+                  <l>To the <hi>Dragon</hi> advancing,</l>
+                  <l>VVhoſe Praiſe<hi>'s</hi> we'll Sing:</l>
+                  <l>He our Church now revives,</l>
+                  <l>Drink about by Conſent,</l>
+                  <l>VVe ſhall Lead happy Lives</l>
+                  <l>Can we be but Content.</l>
+                  <l>Then the Glaſs to the Bri<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </l>
+                  <l>Fill it up with all haſt, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </l>
+                  <l>And in Sack let us ſwim; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </l>
+                  <l>For the time it will waſt, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </l>
+                  <l>And while <hi>Graſhopper</hi> Ze<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </l>
+                  <l>Do with Envy repine, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </l>
+                  <l>VVe will Chear up our <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </l>
+                  <l>VVith the Juice of the V<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </l>
+               </lg>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
